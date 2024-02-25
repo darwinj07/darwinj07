@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Deputy**, a Notion backup service.
 
-- 👯 I’ve worked on [Calendy](https://github.com/snuhcs-course/swpp-2023-project-team-10)
+- 👯 I’ve worked on [Calendy](https://github.com/snuhcs-course/swpp-2023-project-team-10), an app for task and schedule management that supports voice/text commands to perform any operation that can be done manually, and much more.
 
 - 👨‍💻 All of my projects are available on Linkedin.
 
