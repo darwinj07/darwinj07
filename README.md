@@ -5,7 +5,7 @@
 
 - 👯 I’ve worked on [Calendy](https://github.com/snuhcs-course/swpp-2023-project-team-10)
 
-- 👨‍💻 All of my projects are available on Linkedin [https://www.linkedin.com/in/darwin-jung-79b059229/](https://www.linkedin.com/in/darwin-jung-79b059229/)
+- 👨‍💻 All of my projects are available on Linkedin.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
