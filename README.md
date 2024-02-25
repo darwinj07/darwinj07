@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Darwin Jung</h1>
-<h3 align="left"> I'm a Korean American student studying Computer Science & Engineering at Seoul National University, interesed in backend engineering.</h3>
+<h1 align="left">Hi, I'm Darwin Jung</h1>
+<h3 align="left"> I am a Korean American student studying CSE at Seoul National University & an aspiring backend engineer.</h3>
 
 - 🔭 I’m currently working on **Deputy**, a Notion backup service.
 
