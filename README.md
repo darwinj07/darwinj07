@@ -1,9 +1,9 @@
 <h1 align="left">Hi, I'm Darwin Jung</h1>
-<h3 align="left"> I am a student & backend engineer studying CS at Seoul National University.</h3>
+<h3 align="left"> I am a backend engineer studying CS at Seoul National University.</h3>
 
 - 🔭 I’m currently working on **Deputy**, a Notion backup service.
 
-- 👯 I’ve worked on [Calendy](https://github.com/snuhcs-course/swpp-2023-project-team-10), an app for task and schedule management that supports voice/text commands to perform any operation that can be done manually, and much more.
+- 👯 I’ve worked on [Calendy](https://github.com/snuhcs-course/swpp-2023-project-team-10), an app for task and schedule management that supports voice/text commands to perform all kinds of operations intelligently.
 
 - 👨‍💻 All of my projects are available on Linkedin.
 
