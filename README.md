@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Darwin(Yoonjae).</h1>
+<h1 align="left">Hi, I'm Darwin.</h1>
 <h3 align="left"> I'm a software engineer studying CS at Seoul National University.</h3>
 
 - I will join Moloco as an SWE early next year.
