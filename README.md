@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Darwin.</h1>
 <h3 align="left"> I'm a software engineer studying CS at Seoul National University.</h3>
 
-- I will join Moloco as an SWE early next year.
+- I am joining Moloco as a SWE early next year.
   
 - I've worked on **Cistern**, a Notion backup service.
 
